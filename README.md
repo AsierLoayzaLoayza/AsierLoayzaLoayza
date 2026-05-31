@@ -4,7 +4,7 @@
 
 **Estudiante de Ingeniería Informática** · Builder · Automatizador de cosas que nadie quiere hacer a mano
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AsierLoayza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asier-loayza-97b2b8273)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[AsierLoayza03@gmail.com])
 
 </div>
