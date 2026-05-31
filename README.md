@@ -66,7 +66,7 @@ Me gustan los proyectos que resuelven problemas concretos. Si algo se puede auto
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsierLoayzaLoayza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsierLoayzaLoayza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsierLoayzaLoayza&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsierLoayzaLoayza&theme=tokyonight&hide_border=true)
 
