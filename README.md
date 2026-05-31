@@ -64,9 +64,9 @@ Me gustan los proyectos que resuelven problemas concretos. Si algo se puede auto
 
 <div align="center">
 
-![GitHub Stats](https://readme-stats-ten-blush.vercel.app/api?username=AsierLoayzaLoayza&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-4ubx6o5t3-asierloayzaloayzas-projects.vercel.app/api?username=AsierLoayzaLoayza&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://readme-stats-ten-blush.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-4ubx6o5t3-asierloayzaloayzas-projects.vercel.app/api/top-langs/?username=AsierLoayzaLoayza&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsierLoayzaLoayza&theme=tokyonight&hide_border=true)
 
