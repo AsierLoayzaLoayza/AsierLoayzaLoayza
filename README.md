@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, soy Asier 👋
+# Hola, soy Asier 👋
 
 **Estudiante de Ingeniería Informática** · Builder · Automatizador de cosas que nadie quiere hacer a mano
 
